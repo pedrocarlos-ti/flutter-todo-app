@@ -1,4 +1,4 @@
-# todo
+# Basic flutter todo app with Sqlite
 
 A new Flutter project.
 
